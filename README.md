@@ -1,1 +1,1 @@
-Mostly written by ai but still personally debugged
+Code for thermal conductivity apparatus with ASTM D5470 Standard
